@@ -63,3 +63,13 @@ jonddon-branch
 - Place : Lagos State, Nigeria
 - Bio : I'm Ekanem David. Software Engineer
 - Github : [dueka](https://github.com/dueka)
+
+
+#### Name: [Anisat Akinbani](https://github.com/Annysah)
+
+- Place : Lagos State, Nigeria
+- Bio : Learning JavaScript.
+- Github : [Annysah](https://github.com/Annysah)
+
+
+
